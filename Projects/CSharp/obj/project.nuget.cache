@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EgDuQNZrg1o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\can91\\OneDrive\\Masaüstü\\Projects\\CSharp\\CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\can91\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

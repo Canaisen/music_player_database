@@ -1,0 +1,19 @@
+[
+  {
+    "operation": "Square Root",
+    "num": 81.0,
+    "result": 9.0
+  },
+  {
+    "operation": "Addition",
+    "num1": 8.0,
+    "num2": 2.0,
+    "result": 10.0
+  },
+  {
+    "operation": "Multiplication",
+    "num1": 19.0,
+    "num2": 92.0,
+    "result": 1748.0
+  }
+]

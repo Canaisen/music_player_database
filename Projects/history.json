@@ -1,0 +1,25 @@
+[
+    {
+        "operation": "Addition",
+        "num1": 5.0,
+        "num2": 2.0,
+        "result": 7.0
+    },
+    {
+        "operation": "Square Root",
+        "num": 90.0,
+        "result": 9.486832980505138
+    },
+    {
+        "operation": "Division",
+        "num1": 2.0,
+        "num2": 5.0,
+        "result": 0.4
+    },
+    {
+        "operation": "Multiplication",
+        "num1": 8.0,
+        "num2": 9.0,
+        "result": 72.0
+    }
+]
